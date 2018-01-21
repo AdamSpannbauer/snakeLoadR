@@ -1,2 +1,8 @@
-# snake_loadR
-small R package to add the snake game as a loader in a shiny app
+# 🐍 Shiny App with Snake Loading Screen 🐍
+
+<p align="center">
+  <kbd>
+    <img src="readme/snake_load.gif">
+  </kbd>
+</p>
+
