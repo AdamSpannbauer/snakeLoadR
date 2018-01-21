@@ -1,4 +1,4 @@
-# 🐍 Shiny App with Snake Loading Screen 🐍
+# 🐍 Snake Loading Screen 🐍
 
 A single function R package to add the snake game to a shiny app while long running output is recalculating.
 
