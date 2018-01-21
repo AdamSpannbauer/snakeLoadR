@@ -18,7 +18,7 @@
 #'       fluidRow(
 #'         column(width=10, offset=1, algin="left",
 #'                actionButton("my_button", "Start Fake 30 Second Job"),
-#'                uiOutput("my_output"),
+#'                uiOutput("my_output")
 #'         )
 #'       ),
 #'       snakeLoadR::snake_loader(outputId = "my_output",
